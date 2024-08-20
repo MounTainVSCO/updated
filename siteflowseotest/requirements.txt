@@ -1,0 +1,4 @@
+Django==4.2.15
+requests==2.32.3
+beautifulsoup4==4.13.0b2 # 'collections' is part of Python's standard library, not an external package
+urllib3==2.2.2  # 'urllib3' is used for HTTP requests, not 'urllib'
